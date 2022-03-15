@@ -14,11 +14,10 @@ Published on Zenodo.
 
 # Contents
 
-1. Page images (png) of the digital facsimile
-2. OCR text files (with some pages done twice) produced by Rescribe
-3. PDF of page images with added OCR by Rescribe
-3. Text files combined into one (using `cat`)
-4. Text file corrected manually, by reading the digital facsimile
+1. [Page images (png)](img-png) of the digital facsimile
+2. [OCR text files](txt-ocr) (with some pages [done twice](txt-ocr-pass2)) produced by Rescribe
+3. [PDF of page images with added OCR](luccarus-i-kostka-1709.pdf) by Rescribe
+3. [Text files combined into one](text) (using `cat`) and corrected manually, by reading the digital facsimile
 5. TEI XML file with minimal structural markup
 6. TEI XML file with words tokenized, normalized, and lemmatized
 7. Markdown file produced from normalized TEI XML
