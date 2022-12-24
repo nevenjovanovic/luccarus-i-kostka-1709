@@ -1820,7 +1820,7 @@ eundi.
 
 <sup><a id="fn.112" href="#fnr.112">112</a></sup> (b) Redit Paulus ad veteres iras, & illa dolorum instrumenta diſcerpit.
 
-<sup><a id="fn.113" href="#fnr.113">113</a></sup> (c) Initum à Stanislao fugæ conilium intercipere ſtatuunt.
+<sup><a id="fn.113" href="#fnr.113">113</a></sup> (c) Initum à Stanislao fugæ conſilium intercipere ſtatuunt.
 
 <sup><a id="fn.114" href="#fnr.114">114</a></sup> (d) Fugientis affectus .
 
