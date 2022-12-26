@@ -14,6 +14,7 @@ lang: lat
 
 --- 
 
+Fons: Luccarus, Joannes. _Stanislaus Kostka drama sacrum. Authore P. Joanne Luccaro societ. Jesu._ Romae : ex officina Cajetani Zenobii typographi, & scalptoris sanctiss. D.N. Clementis XI. prope sanctum Ignatium, 1709. [archive.org](https://archive.org/details/bub_gb_ldx6wPj7IMMC)
 
 
 # Table of Contents
@@ -161,9 +162,9 @@ Me torquet, & me laniat. Est Jacob mihi<br />
 Cerberus, Erynnis, Hydra, Gorgoneum caput.<br />
 Ille mihi puero prælium indixit puer.<br />
 Palaeſtra matris uterus ambobus fuit:<br />
-Utinam ſuiſſet tumulus. Ego primas tuli.<br />
+Utinam fuiſſet tumulus. Ego primas tuli.<br />
 Extorſit ille jura primatus dolo,<br />
-Fratremque luſit: dona præripuĩt Patris,<br />
+Fratremque luſit: dona præripuit Patris,<br />
 Præripuit inſuper aſtra, præripuit Deum.<br />
 Sed fugiat ipſe noxias Eſau manus.<br />
 Non fugiet unquam quiſquis: infenſum ſibi,<br />
@@ -182,7 +183,7 @@ Hac vincat Eſau. Fratris in pœnas ruat<br />
 Major minoris: plectat inſontem Reus:<br />
 Iniquus Æquum vexet, exagitet, premat.<br />
 Sed heu quid ignes inter obrigui gelu?<br />
-Quis me repente civis Aſtrorum ſugat ?<br />
+Quis me repente civis Aſtrorum fugat ?<br />
 Jacobus eſt: incœpta diſſolvet mea,<br />
 Dehiſce tellus, fratris aſpectum horreo.<br />
 <em>Jac.</em> Delapſus aula pacis, & Divum domo (a)<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup><br />
@@ -225,7 +226,7 @@ Criſtata volucris fluctibus erythræ caput<br />
 Promente Phœbo. Membra deſtituit ſopor,<br />
 Repetitque terras dura curarum Cohors.<br />
 Vos uſque ſomnus urget, & nunquam ſatis<br />
-Excutitis oculis noctem. Inofſfenſos refert<br />
+Excutitis oculis noctem. Inoffenſos refert<br />
 Difficilè greſſus arduam quiſquis terit<br />
 Sopore gravidus orbitam, & qui amat moras,<br />
 Divina cum res agitur, hic nunquam eſt vigil.<br />
@@ -267,7 +268,7 @@ Avidoque totum corde luterum bibat. (b)<sup><a id="fnr.4" class="footref" href="
 <em>Bo.</em> Quæ prima Juvenis mente religio ſtetit<br />
 Perſiſtet hæc extrema. Vix longus labor<br />
 Evertit id, quod longa duravit dies.<br />
-Cra. Non ſic profundi ſtirpe multiplici occupat<br />
+<em>Cra.</em> Non ſic profundi ſtirpe multiplici occupat<br />
 Annoſa quærcus fertile ingenium ſoli;<br />
 Non ſic adhæret corpori innatus vigor,<br />
 Animoque corpus, hominis ut mente inſident<br />
@@ -393,11 +394,11 @@ Spargere, rubetæ Sanguine Draconis Jecur<br />
 Miſcere didici. Manibus haud ſemel meis<br />
 Eſt de Sepulcris caprificus eruta,<br />
 Et mortuorum fuſus in pateras cinis,<br />
-Arbiria ut hominum verterem ad nutus meos.<br />
+Arbitria ut hominum verterem ad nutus meos.<br />
 Hæc hæc malorum virga facinorum artifex,<br />
 Duri ſatelles Imperj eſt teſtis meæ<br />
 Opulenta fraudis: hàc vel invitum traham<br />
-Ad vota Juvenem. Namque tergeminia humum<br />
+Ad vota Juvenem. Namque tergeminis humum<br />
 Si cingat orbibus, illico erumpet malus<br />
 Acheronte ab imò turpis illecebræ parens.<br />
 Illum pudori Sarmata opponam tuo. (b)<sup><a id="fnr.11" class="footref" href="#fn.11" role="doc-backlink">11</a></sup><br />
@@ -432,7 +433,7 @@ Inimicus ignis tecta populatur mea,<br />
 Luteri & intra parietes viget pudor,<br />
 Fideſque Romula. Cauſa præſentis mali<br />
 Eſt mihi Polonus hoſpes, ex geminis minor<br />
-De ſtirpe Regum fratribus. Choſtcas vocant<br />
+De ſtirpe Regum fratribus. Choſtcas vocant.<br />
 Ille ille tumidus nivibus incedens ſuis<br />
 De te triumphat, & ſuperbifico pede<br />
 Tua tela calcat victor: Ah tantum probrum<br />
@@ -450,10 +451,10 @@ Polonus iſte tela, non ſemper dolos<br />
 Fugiet latentes <em>Gor.</em> Perge, te comitem meis (a)<sup><a id="fnr.15" class="footref" href="#fn.15" role="doc-backlink">15</a></sup><br />
 Adjunge natis. Funde pellacem ſonum,<br />
 Et blanda ab ore verba verſuto fluant.<br />
-Incumbe naſtus\*?\* undique, atq; omnem explica<br />
+Incumbe in aſtus undique, atq; omnem explica<br />
 Turbam leporum. Regna ſarmati petit<br />
 Fraus iſta. Nam Luterus hac Serpens via<br />
-In ſruſta grande Teutonum imperium ſcidit.<br />
+In fruſta grande Teutonum imperium ſcidit.<br />
 <em>Chac.</em> Bene ominaris. Regna nil citius ſecat,<br />
 Quàm ſecta diſcors. <em>Gor.</em> Perge jam bellũ vocat.<br />
 </p>
@@ -478,10 +479,10 @@ Curam exigamus. Proterit dies diem,<br />
 Tumulatur annus, priſtinos bruma imminens<br />
 Referet labores. Ergo dum tempus favet;<br />
 Pomona dum luxuriat, arbores replens (c)<sup><a id="fnr.17" class="footref" href="#fn.17" role="doc-backlink">17</a></sup><br />
-Nemus omne ſœtu; & languido arentem ſinu<br />
+Nemus omne fœtu; & languido arentem ſinu<br />
 Permulcet auræ grata temperies humum,<br />
 Reficitque lentus humor irrigui Jovis.<br />
-Arcente flemmas torridi Erigone canis;<br />
+Arcente flammas torridi Erigone canis;<br />
 Dum geſtientis inſolens amœnitas<br />
 Telluris, & benignus aſtrorum nitor<br />
 Jucunda nos allectat ad ſolatia.<br />
@@ -513,11 +514,11 @@ Queis deſtinatur lucis hodiernę jubar.<br />
 <em>Pa.</em> Qui neſcit uti, dum licet, vitæ bonis.<br />
 Is ante mortem moritur. <em>Sta.</em> O dictum benè!<br />
 Placet ante mortem occumbere, ut nunquam occidam.<br />
-Non ſæva mortis tela properãtis\*?\* pavet<br />
+Non ſæva mortis tela properãtis pavet<br />
 Quicumque vivus fata prævertit ſua,<br />
 Periitque Mundo ſpontè, ne pereat Deo.<br />
 <em>Pa.</em> Tu morere, ſi mors placuit, & vivus tuo<br />
-Prolude tumulo, Libera, & ſelix meo<br />
+Prolude tumulo, Libera, & felix meo<br />
 Arridet animo vita. Stultitiæ eſt genus<br />
 Felicitate nolle, ſi poſſis. frui. (a)<sup><a id="fnr.22" class="footref" href="#fn.22" role="doc-backlink">22</a></sup><br />
 <em>Sta.</em> Felicitas eſt Animus à labe integer.<br />
@@ -538,7 +539,7 @@ Auſteritatis tetricæ acrimoniam.<br />
 Laudemque Senio ſtrenua juventus parit.<br />
 Quod quiſque didicit Juvenis, id retinet ſenex.<br />
 <em>Pa.</em> Curare quid retineat annoſum caput,<br />
-Jumque Libitinæ proximum eſt vanus labor.<br />
+Jamque Libitinæ proximum eſt vanus labor.<br />
 Præſentis horæ capere nos donum decet;<br />
 Et ad theatra tendere hoc juvat die.<br />
 <em>Sta.</em> Perennis ęvi quærere inſtanter bona,<br />
@@ -580,8 +581,8 @@ Stanislaus, Boemundus, Cratillus.
 
 <p class="verse">
 <em>Sta.</em> ABiere: nemo eſt. Solus ęrumnas meas (c)<sup><a id="fnr.25" class="footref" href="#fn.25" role="doc-backlink">25</a></sup><br />
-Mecum ipſe recolam Parce ſi tecum querat<br />
-Jeſu\*?\* meorum meta votorum ultima.<br />
+Mecum ipſe recolam Parce ſi tecum querat\*?\*<br />
+Jeſu meorum meta votorum ultima.<br />
 Cur frater à me pectus alienum gerit?<br />
 Cur me pudori cogit infenſos lares<br />
 Colere, ubi turpis habitat errorum lues?<br />
@@ -624,7 +625,7 @@ Nequit, & voluptas. Mollia pudorem fugant,<br />
 Pelluntque blandimenta, queis animos nocens<br />
 Cupido lactat. Illa deficiunt brevi:<br />
 Pudoris at vis nulla jacturam poteſt<br />
-Reparare. Semel hic perditus nunquam redit<br />
+Reparare. Semel hic perditus nunquam redit.<br />
 <em>Crat.</em> Nihil opus eſt, ut redeat humanæ ferox<br />
 Pudor iſte mentis carnifex: procul trucem<br />
 Abige Tyrannum corde. Si quoquam ferax<br />
@@ -639,7 +640,7 @@ Divina rigidum membra ſulcavit flagrum: (a)<sup><a id="fnr.28" class="footref" 
 Pupugit decoram textilis frontem dolor:<br />
 Sacri cruorem pectoris mucro bibit,<br />
 Fixitque gemina cuſpis extenſas manus.<br />
-Quàm vera narrat! <em>Cr.</em> Vera. Nil horum negat<br />
+<em>Bo.</em> Quàm vera narrat! <em>Cr.</em> Vera. Nil horum negat<br />
 Luterus. <em>Sta.</em> Ergo cur voluptatem docet (b)<sup><a id="fnr.29" class="footref" href="#fn.29" role="doc-backlink">29</a></sup><br />
 Alter Epicurus, & alter in terris Mames?<br />
 Cur impudicæ Cypridi addictus fovet<br />
@@ -654,7 +655,7 @@ Novus iſte doctor, & ſimul nefarius<br />
 Veterator, & corruptor in cauſa gravi<br />
 Prævaricatur: Nempè quam ſummus palam,<br />
 Et ſuaſit, & ſuſtinuit aſtrorum ſator<br />
-Commendat ore, damnat operibus Crucem-<br />
+Commendat ore, damnat operibus Crucem.<br />
 </p>
 
 
@@ -679,7 +680,7 @@ Quidquid fugiens perdidit ætas.<br />
 Ducite juvenes hilares annos,<br />
 Et jucundæ præmia vitæ,<br />
 Dum benè comptis crinibus aurum,<br />
-Dum roſa viridi ſronte ſuperbit.<br />
+Dum roſa viridi fronte ſuperbit.<br />
 Pereat quiſquis mente ſevera<br />
 Tenerum vitæ ſpernit aprilem,<br />
 <em>Bo.</em> Audin ſodalis? Verba non hominem ſonant.<br />
@@ -698,8 +699,8 @@ Non pulſantur cava ſaxa pede? (b)<sup><a id="fnr.34" class="footref" href="#fn
 Cur vocalis grata metalli<br />
 Flamina ceſſant ? Cur dulciſonæ<br />
 Murmura vocis non ingeminat<br />
-Feſtiva Chelyvs ? Due\*!\* age cantus,<br />
-Due\*!\* age choreas læta juventus.<br />
+Feſtiva Chelys ? Duc age cantus,<br />
+Duc age choreas læta juventus.<br />
 Voluant vigiles pectore curas,<br />
 Quibus ætatis glacialis hyems<br />
 Nive multiplici tempora ſparſit.<br />
@@ -728,7 +729,7 @@ Abſumat ignis, quàm tibi aſpergam notam<br />
 O dulcis hoſpes cordis, & ſoſpes pudor.<br />
 Miſeranda proles ſcelera pietatem vocas. (b)<sup><a id="fnr.37" class="footref" href="#fn.37" role="doc-backlink">37</a></sup><br />
 Tangis Carybdim, Brevibus impigis ratem,<br />
-Ccœlum laceſſis; Ditis in fauces ruis.<br />
+Cœlum laceſſis; Ditis in fauces ruis.<br />
 Miſeror utrumque: quidquid irarum paras,<br />
 O ſumme Olympi Rector, in meum cadat (c)<sup><a id="fnr.38" class="footref" href="#fn.38" role="doc-backlink">38</a></sup><br />
 Ignobile caput. Sceleris alieni reum<br />
@@ -795,7 +796,7 @@ Me non probante; Paulus ut vidit forum,<br />
 Excuſſit animo palladem, & multam libris,<br />
 Dixit ſalutem. Nulla diſcinctum regunt,<br />
 Conſilia Juvenem. Fræna non patitur ferox.<br />
-Gor Ætatis hæc eſt culpa. Nos decet ſenes<br />
+<em>Gor</em> Ætatis hæc eſt culpa. Nos decet ſenes<br />
 Benè temperatæ providus mentis vigor.<br />
 Juvenile non eſt regere naturæ impetum.<br />
 Nunquam decorum fructibus tollet caput, (b)<sup><a id="fnr.47" class="footref" href="#fn.47" role="doc-backlink">47</a></sup><br />
@@ -841,7 +842,7 @@ Exultat, atque in vitia deterius rui.<br />
 In juvene potuit ſacra naturam Charis<br />
 Superare. <em>Gor.</em> Sed non perdere. Ad ſuum redit<br />
 Natura morem; Seque proſtratam erigit.<br />
-Quid quod ſupernæ Charites innocuus vapor,<br />
+Quid quod ſupernæ Charitos innocuus vapor,<br />
 Et aura ſpirans leniter non opprimit<br />
 Ingenita cordi ſemina, nec animum trahit<br />
 Ad opera, quæ ſint aſpera, & vitam terant.<br />
@@ -862,7 +863,7 @@ Decus atque lumen Fabius hoc ſcriptum libris<br />
 Reliquit axioma liniendum cedro,<br />
 Minioque: Puerum nolo, qui ſapiat nimis.<br />
 Ego neque Juvenem laudo, qui referat ſenem.<br />
-Proclivitati quiſque ſamuletur ſuæ,<br />
+Proclivitati quiſque famuletur ſuæ,<br />
 Et onere iniquo nemo naturam gravet:<br />
 Quæ nempè, Serius, ocyus prodit faces<br />
 Noſtro latentes corde; Si teneras adhuc<br />
@@ -911,7 +912,7 @@ Occulta cujus monita ne ſpernas cave.<br />
 <em>Pa.</em> Tù me ſuperbe corripis ? Peream, niſi (c)<sup><a id="fnr.56" class="footref" href="#fn.56" role="doc-backlink">56</a></sup><br />
 Tibi obſtinatum comprimam plagis caput,<br />
 Utcunque libito vivere recuſes meo.<br />
-<em>Sta.</em> Dulcia minaris Paaule. Non plagas timet (d)<sup><a id="fnr.57" class="footref" href="#fn.57" role="doc-backlink">57</a></sup><br />
+<em>Sta.</em> Dulcia minaris Paaule.\*!\* Non plagas timet (d)<sup><a id="fnr.57" class="footref" href="#fn.57" role="doc-backlink">57</a></sup><br />
 Potiora qui ſupplicia deliciis habet<br />
 Bifidam ſuperni Regis amplexus trabem,<br />
 Minare capiti potius illecebras meo.<br />
@@ -932,7 +933,7 @@ In ſe met odio quiſquis ætatis bonum<br />
 Pertæſus, avidos corripit mortis gradus.<br />
 In fata ruere parricidii eſt genus:<br />
 Sed parricida cædis alienæ eſt Reus;<br />
-Tu te ipſe perimis; quadque deflendum eſt magis.<br />
+Tu te ipſe perimis; quodque deflendum eſt magis,<br />
 Ludibria mentis iſta virtutem vocas,<br />
 Crudelitati nomen obtendens pium.<br />
 <em>Sta.</em> Tù quoque per amplã ducere interitus viam,<br />
@@ -963,7 +964,7 @@ Gormandus, Cratillus, Boěmundus.
 <em>Gor.</em> O Fida capita, columen effœti patris<br />
 Narrate quo res noſtra verſetur loco. (b)<sup><a id="fnr.62" class="footref" href="#fn.62" role="doc-backlink">62</a></sup><br />
 Veſtrum ne clauſit rete luctantem feram?<br />
-An qualis aper Hercvnius effregit plagas<br />
+An qualis aper Hercynius effregit plagas<br />
 Polonus Hoſpes? Gaudeam, an doleam pater?<br />
 <em>Crat.</em> Lætare genitor. Nullus illuxit dies<br />
 Felicior nobis. <em>Bo.</em> Diem verè aureum (c)<sup><a id="fnr.63" class="footref" href="#fn.63" role="doc-backlink">63</a></sup><br />
@@ -987,7 +988,7 @@ Viciſſe puerum? <em>Bo.</em> Victor eſt noſtri puer;<br />
 Victique gloriamur: at fraudis pudet, (a)<sup><a id="fnr.66" class="footref" href="#fn.66" role="doc-backlink">66</a></sup><br />
 In quam pudicum trahere tentavit caput<br />
 Veſana noſtræ ſrontis impudentia.<br />
-Crat Intra execrandæ caſtra perfidiæ pudet<br />
+<em>Crat</em> Intra execrandæ caſtra perfidiæ pudet<br />
 Meruiſſe fœda criminum ſtipendia.<br />
 Benigna ſed nos Numinis juvit manus.<br />
 Lethale nam dum premeret errantes chaos<br />
@@ -1017,7 +1018,7 @@ Stygius repente coluber humani notas (a)<sup><a id="fnr.70" class="footref" href
 Mentitus oris, Sarmatam blando petit<br />
 Certamine voluptatis, ac telum vibrat,<br />
 Ad cujus ictum domitor Hectoreus, truces<br />
-Depoſuit iras. cecidit Alcidæ vigor,<br />
+Depoſuit iras, cecidit Alcidæ vigor,<br />
 Ramoſa quamvis capita Lærnæi mali,<br />
 Toruumque profligarit erymanthi ſuem.<br />
 Stetit ille contra, qualis immotus Leo,<br />
@@ -1062,7 +1063,7 @@ Artem docendi perdo. Quid ſuades furor?<br />
 An eſt quod ultra perdere infelix queam?<br />
 Eſt vita. Pereat, morte ſanetur dolor.<br />
 Majora cruciant damna, quàm vivum pati<br />
-Ut me ipſe debeam. Renvo terræ gravis,<br />
+Ut me ipſe debeam. Renuo terræ gravis,<br />
 Odioſus Aſtris vivere, inviſus mihi.<br />
 Decreta mors eſt. Mortis haud conſtat genus.<br />
 Ferrone vitam finiam, an præceps jugis<br />
@@ -1079,8 +1080,8 @@ Scrutare ferrum viſcera, cruorem bibe.<br />
 Aude quid hæres dextra? quid trepido gradu<br />
 Reſiſtis? Aude; lucis inviſæ moras<br />
 Abrumpe; Vulnus pectori adverſo imprime.<br />
-<em>St.</em> Gormãde quid agis? Quis gravat mentẽ furor, (a)<sup><a id="fnr.77" class="footref" href="#fn.77" role="doc-backlink">77</a></sup><br />
-<em>Gor:</em> Abſcede peſtis: an etiam atbitrium necis<br />
+<em>St.</em> Gormãde quid agis? Quis gravat mentẽ furor,\*!\* (a)<sup><a id="fnr.77" class="footref" href="#fn.77" role="doc-backlink">77</a></sup><br />
+<em>Gor:</em> Abſcede peſtis: an etiam arbitrium necis<br />
 Vis rapere? nil prohibere moriturum poteſt.<br />
 <em>Sta.</em> Quæ cauſa vitam reddit inviſam? <em>Gor.</em> Dolor.<br />
 <em>Sta.</em> Cauſam doloris ede. Cum vulnus latet,<br />
@@ -1094,7 +1095,7 @@ Auctore te, Cratillus in fraudem incidit<br />
 Cum fratre Boëmundo. Tridentinum nefas<br />
 Uterque jam ſectatur, & nugis litat,<br />
 Quas ponit inter ſacra Romulidum genus.<br />
-Sta Hæc ergo cauſa mortis? hoc fraudem vocas?<br />
+<em>Sta</em> Hæc ergo cauſa mortis? hoc fraudem vocas?<br />
 Non rapta, ſed nata ſoboles gemina eſt tibi, (c)<sup><a id="fnr.79" class="footref" href="#fn.79" role="doc-backlink">79</a></sup><br />
 Nec illa fraudi ceſſit; at fraudem ſtygis<br />
 Eluſit, execrata perfidiæ luem.<br />
@@ -1103,7 +1104,7 @@ Ut te ruinæ ſubtraham; hoc ferrum; hanc manũ<br />
 Tenebo, & hoſpes hoſpiti auxilium feram.<br />
 <em>Gor</em> Quæ iſthęc in hoſtem lenitas? quid amas pius<br />
 Præſtigiatorem impium? Heu fari pudet; (d)<sup><a id="fnr.80" class="footref" href="#fn.80" role="doc-backlink">80</a></sup><br />
-Tatnen fatebor ſcelera: nam certum eſt mori.<br />
+Tamen fatebor ſcelera: nam certum eſt mori.<br />
 Si cognita Stanislae tibi forent mala, (e)<sup><a id="fnr.81" class="footref" href="#fn.81" role="doc-backlink">81</a></sup><br />
 Quæ infidus hoſpes in tuum movi caput;<br />
 Meum hoc probares forſitan votum necis.<br />
@@ -1128,7 +1129,7 @@ Sperare veniam. <em>Sta</em> Peſſimum eſt ſceleris genus<br />
 Spem perdere ſalutis. Scelera quæque obruit<br />
 Noſtri facilitas Regis, hunc placat liquor<br />
 Expreſſus oculis. Ingemit quoties reus,<br />
-Toties Tonantis fulmina extorquet manu,<br />
+Toties Tonantis fulmina extorquet manu.<br />
 <em>Gor.</em> Vivam. Tuo me dirigi arbitrio ſinam (b)<sup><a id="fnr.83" class="footref" href="#fn.83" role="doc-backlink">83</a></sup><br />
 O dulce vitæ ſydus, o noſtræ domus<br />
 Tutela ſelix. Duc age errantem ſenem<br />
@@ -1146,7 +1147,7 @@ Boëmundus, Cratillus.
 
 <p class="verse">
 <em>Bo.</em> GRatemur Aſtris ſrater. En pleno beat<br />
-Nos pacis ubere prodigus amoris Dreus .<br />
+Nos pacis ubere prodigus amoris Deus .<br />
 Sub architecto ſcelerum, & errorum duce (a)<sup><a id="fnr.84" class="footref" href="#fn.84" role="doc-backlink">84</a></sup><br />
 Lutero, & ipſi dediti imperio patris,<br />
 Horreſco memorans, ferream ætatem diù,<br />
@@ -1161,7 +1162,7 @@ Minus timerem quos movet parens metus<br />
 Si mihi timerem. Timeo, ne Carum caput<br />
 Hoſpitis amici fraude genitoris cadat.<br />
 <em>Bo.</em> Ne metue. Cari capitis in tuto ſalus<br />
-Mox erit. Amicus hoſpes è noſtro eſferet, (c)<sup><a id="fnr.86" class="footref" href="#fn.86" role="doc-backlink">86</a></sup><br />
+Mox erit. Amicus hoſpes è noſtro efferet, (c)<sup><a id="fnr.86" class="footref" href="#fn.86" role="doc-backlink">86</a></sup><br />
 Tellure profugus Norica, hoſpitio pedem.<br />
 Salubrioris luce mutabit ſoli<br />
 Viennenſe Cœlum. <em>Crat.</em> Repetet an patrios lares?<br />
@@ -1170,14 +1171,14 @@ Regnata petet <em>Cra</em> Expone quis mentẽ impetus<br />
 Ad tam remota Regna juvenilem rapit ? (d)<sup><a id="fnr.87" class="footref" href="#fn.87" role="doc-backlink">87</a></sup><br />
 Alio calentes Sole cur tentat plagas ?<br />
 <em>Bo.</em> Specioſa decora nuper in lucem tulit, (e)<sup><a id="fnr.88" class="footref" href="#fn.88" role="doc-backlink">88</a></sup><br />
-Satum ſuperno ſemine virarum genus,<br />
+Satum ſuperno ſemine virorum genus,<br />
 Nobile Secutum Cantabri auſpicium Ducis (f)<sup><a id="fnr.89" class="footref" href="#fn.89" role="doc-backlink">89</a></sup><br />
 Jeſu verendum nomen in ſignis volat<br />
 Fatalis Erebo gentis, Unanimes movet<br />
 Conſimilis acies cura. Stat mundi arduos<br />
 Luſtrare fines, pondere ut ſcelerum gravi<br />
 Soluta tellus Ditis excutiat jugum.<br />
-Generoſa nullis purcit ærumnis cohors,<br />
+Generoſa nullis parcit ærumnis cohors,<br />
 Ut Vaticanæ legis ad normam reum<br />
 Conformet Orbem. Jurat in Latium caput,<br />
 Quo fulta, diræ caſtra perfidiæ quatit.<br />
@@ -1194,7 +1195,7 @@ Pudicus hoſpes. Ergo quam primùm ſolum<br />
 Viennenſe linquet, Latia, quæ mordet Tybris<br />
 Aditurus arua: Scilicet fratris furor<br />
 Hic eſſe voti compotem puerum vetat.<br />
-Cra Felix Quiritum Regio, quę tantum hoſpitem.\*!\*<br />
+<em>Cra</em> Felix Quiritum Regio, quę tantum hoſpitem.\*!\*<br />
 Gremio fovebis. Norica hæc tellus gemat<br />
 Viduanda juvenũ Sole. Quis prohibet pium<br />
 Nos æmulari facinus, & patrios Lares (b)<sup><a id="fnr.91" class="footref" href="#fn.91" role="doc-backlink">91</a></sup><br />
@@ -1204,7 +1205,7 @@ Quod nullus Imber, nulla conſumit dies (c)<sup><a id="fnr.92" class="footref" h
 Ad Aſtra, ad Aftra Frater. En docet viam<br />
 Polonus: Aſtra præpete petamus gradu.<br />
 <em>Bo.</em> Imitarer hoc exemplar, & veſtigia (a)<sup><a id="fnr.93" class="footref" href="#fn.93" role="doc-backlink">93</a></sup><br />
-Pueri virilis ſequerer;, at nondum viget<br />
+Pueri virilis ſequerer; at nondum viget<br />
 Matura virtus. Iſta ſed melius domi<br />
 Diſcutere libeat. <em>Crat.</em> Cępta fortunet Deus.<br />
 </p>
@@ -1247,13 +1248,13 @@ Jejunus artus. Acuit hic enſes furor,<br />
 Seritque bella, cœde reſperſus manus.<br />
 Quid damna referam, ſacra quæ terris fames<br />
 Invexit auri, & ſordida ac ſemper lucris<br />
-Inhians cupido? puppis ignoto prius.<br />
+Inhians cupido? puppis ignoto prius,<br />
 Et quod latebat melius, inſultat ſalo,<br />
 Specioſa colli vincula ut gemmas legat.<br />
-Terræ petuntur viſcera, & ſerrum nocens,<br />
+Terræ petuntur viſcera, & ferrum nocens,<br />
 Aurumque ferro quæritur Nocentius.<br />
 Hoc fonte derivata bellorum Seges<br />
-Nunquæm expiandis cædibus texit ſolum.<br />
+Nunquam expiandis cædibus texit ſolum.<br />
 In telo ferrum vertitur, Marti facem<br />
 Dum ſubdit aurum. Pejus exoritur malum<br />
 A peſte blanda, quam voluptatem vocat<br />
@@ -1281,7 +1282,7 @@ Cineri & doloſo premere ſuppoſitas faces.<br />
 Pretioſa ſcilicet animi in tuto Salus<br />
 Eſt collocanda. Quiſquis ancipiti loco<br />
 Hanc Fidit, ipſi facilè perniciem creat.<br />
-Sta Quod rogo perenni idoneũ in primis putas (a)<sup><a id="fnr.101" class="footref" href="#fn.101" role="doc-backlink">101</a></sup><br />
+<em>Sta</em> Quod rogo perenni idoneũ in primis putas (a)<sup><a id="fnr.101" class="footref" href="#fn.101" role="doc-backlink">101</a></sup><br />
 Animi ſaluti, & affatim laudum ferax<br />
 Genus eſſe vitæ, quemvè præcipuè ſtatum<br />
 Ampla meritorum conſequi in terris lucra?<br />
@@ -1366,7 +1367,7 @@ Paulus, Phyletes.
 <em>Pa.</em> BEne eſt; peractum eſt: abiit, exceſſit; mea<br />
 Cumulavit hodiè vota. Cur tamen genas<br />
 Injuſſus irrigat imber, & mentem dolor (b)<sup><a id="fnr.110" class="footref" href="#fn.110" role="doc-backlink">110</a></sup><br />
-Percellit improviſus ? Heu ſacti pudet,<br />
+Percellit improviſus ? Heu facti pudet,<br />
 Iramque vis exorta pietatis fugat.<br />
 Relabor impius hoſtis in fratrem pium.<br />
 Nimis impotenti mente primatum gero.<br />
@@ -1391,12 +1392,12 @@ Acutus; at hoc membra depaſcit flagro.<br />
 Floremque vitæ demetit: Nulla impetum<br />
 Frænare ratio mentis indomitæ poteſt.<br />
 <em>Pa.</em> Pietas rebellat: æſtus irarum redit; (b)<sup><a id="fnr.112" class="footref" href="#fn.112" role="doc-backlink">112</a></sup><br />
-Hoſtemque rurſus, fratre depulſo. induo.<br />
+Hoſtemque rurſus, fratre depulſo, induo.<br />
 Cedò necis inſtrumenta. Sic ſcindo meam<br />
 A fratre mentem. Pereat hoc pœnæ genus,<br />
 Quod ilia\*!\* populatur: at pœnas luat,<br />
 Quas irrogare corpori aſſuevis flagrum.<br />
-Caſta Iacerare membra quo ſolet modo,<br />
+Caſta lacerare membra quo ſolet modo,<br />
 Laceretur, & in fruſta diſciſſum cadat.<br />
 <em>Phy.</em> Laudo furorem. Perge; fraternas manus<br />
 A cæde reprime; juvenem inimicum ſuæ<br />
@@ -1496,7 +1497,7 @@ Nullas recepi. Timeo, ne vindex manus<br />
 Tonantis, in me fulmine triſulco irruat;<br />
 Quamquam ò! Tonantis fulmine indignũ reor<br />
 Infame caput hoc. Pœna me vilis premat<br />
-Bo Timor iſte fruſtra eſt. Mitis ex ęquo eſt Deus<br />
+<em>Bo</em> Timor iſte fruſtra eſt. Mitis ex ęquo eſt Deus<br />
 Cum punit, & cum parcit. Eſt potentior<br />
 Quacumque pœna pectoris amantis dolor.<br />
 Peccaſſe quem pęnituit, excuſſit ſcelus.<br />
