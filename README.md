@@ -10,7 +10,7 @@ A digital facsimile of his 1709 book, from the copy in the National Central Libr
 
 This edition was prepared by [Neven Jovanović](https://orcid.org/0000-0002-9119-399X).
 
-Published on Zenodo.
+Published on Zenodo: [DOI: 10.5281/zenodo.7495179](DOI: 10.5281/zenodo.7495179)
 
 # Contents
 
