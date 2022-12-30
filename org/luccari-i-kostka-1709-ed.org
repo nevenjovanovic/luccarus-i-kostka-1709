@@ -1,8 +1,31 @@
+#+AUTHOR: Neven Jovanović, Filozofski fakultet Sveučilišta u Zagrebu
+#+DATE: 30. prosinca 2022.
+#+EMAIL: neven.jovanovic@ffzg.unizg.hr
+#+TITLE: Joannis Luccari Stanislaus Kostka drama sacrum
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+DESCRIPTION: Izdanje novolatinske drame
+#+LATEX_HEADER: \usepackage{polyglossia}\setmainlanguage{latin}\setmainfont{GFS Didot}
+
+
+
+
 # mendas typographicas tacite sustuli
 # partes verborum in versuum finibus separatas iunxi
 # de dato: vix enim trigeſimum ætatis annum Author impleverat cum hoc Drama conſcripſit = 1622 + 30 = 1652
 
-Fons: Luccarus, Joannes. Stanislaus Kostka drama sacrum. Authore P. Joanne Luccaro societ. Jesu. Romae : ex officina Cajetani Zenobii typographi, & scalptoris sanctiss. D.N. Clementis XI. prope sanctum Ignatium, 1709. https://archive.org/details/bub_gb_ldx6wPj7IMMC
+Fons: [[https://www.wikidata.org/wiki/Q114949297][Luccarus, Joannes]]. _Stanislaus Kostka drama sacrum. Authore P. Joanne Luccaro societ. Jesu._ Romae : ex officina Cajetani Zenobii typographi, & scalptoris sanctiss. D.N. Clementis XI. prope sanctum Ignatium, 1709. [[https://archive.org/details/bub_gb_ldx6wPj7IMMC][archive.org]]
+
+Haec editio: edidit [[https://www.wikidata.org/wiki/Q114878204][Neven Jovanović]], publici iuris fecit [[https://www.wikidata.org/wiki/Q3445232][Facultas philosophica Universitatis Zagrabiensis]].
+
+Zenodo: TBA
+
+Nonobstantibus ceteris condicionibus hunc textum tractare licet secundum [[http://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International]]. 
+
+@@html:<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.@@
+
+---
+
 
 STANISLAUS KOSTKA DRAMA SACRUM.
 
@@ -15,7 +38,7 @@ Ex officina Cajetani Zenobii Typographi, & Scalptoris Sanctiss. D. N. Clementis 
 SUPERIORUM FACULTATE.
 
 * CLARISSIMIS, NOBILISSIMISQUE COLLEGII PTOLAEMEI ADOLESCENTIBUS, D. C. S. J. FELICITATEM.
-CUm primùm divelli à Vobis, Adoleſcentes ornatiſſimi, eamque quam, & colitis, & ornatis inclytam Nomine, atque Ingeniis Urbem linquere, valetudinis causâ debui; eâ altè Animo meo cogitatio inhæſit, ut ſi quid uſpiam occurreret, unde extare aliqua obſequii erga Vos mei ſignificatio poſset, non arriperem modo, verum etiam & amplecterer, & exoſcularer. Quid enim jucundius mihi, aut optatius accideret, qua ſi munuſculo aliquo gratiam  Vobis inirem, quos non Hetruria ſolum elegantiarum Parens optima, ſed univerſa quodammodo colit Italia, ſuſpicitque. Hæc autem cum ego mecum agitarem, opemque ad id à Familiaribus meis, & conſilium poſcerem; oblatum mihi forte fuit hoc Drama quòd vobis nuncupo, atque è rè ſore inſinuatum, ſi veſtris illud auſpiciis, meàque operà prodiret in lucem. Duo quippe erant, quæ commendare vobis donum, meumque in vos veſtraque omnia ſtudium apprime possent; alterum nimirum Dramatis argumentum : alterum Author. Nam ad primum quòd attinet, quid deniquè nobiliſſimis, pietatisque ſtudioſiſſimis Adoleſcentibus offerri opportunius poſset, quam clariſſimus quidem genere, ſed longe pietate, moribuſque clarior Adoleſcens STANISLAUS KOSTKA? in cujus nimirum ſingulari Modeſtia, generoſitate, conſtantiâ, veſtros ipſe mores, veſtras vivendi, agendique rationes dignoſcere poſsetis, tutèque diligere : Nam cum cætera, quæ in vos impenſe natura cõgesſit nominum veſtrorum decora, cum aliis etiam communia habeatis: ea tamen quæ in vos ab optimo Vitæ cultu, pietatisque ſtudio promanant, vobis profectò unis debetis; quamobrem veſtrum non eſse non poteſt quidquid illuſtre eſt, & cum pietate conjunctum. Jam verò, quod ad alterum pertinet, is Dramatis hujus eſt Author, qui cum nomine ſe ſuo tueatur ac vindicet, vobis quidem certè probabitur; quibus probari optima ſolẽt. Quis enim P. Ioannem Luccari Societatis noſtræ Virum omni bonarum artium cultu perpolitum, diùque in hoc Collegii Romani Athæneo Rethoricæ facultatis Præceptorem optimum de nomine ſaltem non noverit? Enimverò, ſi quiſquam alius, tantam ipſe eſt apud optimum quemque politioris præſertim litteraturæ ſamam, opinionemque aſsecutus, ut literariaæ Reipublicæ intereſse plurimum ſapiens quilibet judicaverit ſi aliquid ab illo exaratum typis committeretur. At quod nunc oculis creditur, etſi leve robuſtioris ingenii rudimentum eſt (vix enim trigeſimum ætatis annum Author impleverat cum hoc Drama conſcripſit) habet tamen, quibus Atticis probetur,  placeat auribus, Veneres non exiguas. Quæ quidem omnia, cum præſertim accederet hominum eruditiſſimorum ſuffragium, permoverunt me ut ab optimo ſene quocum ego verſari ſpe foleo, Drama hoc, quod vobis inſcriberem, non poſcerem modo, verùmetiam efflagitarem; & quamvis (quæ eſt ipſius modeſtia ſingularis) id ipſe, ſemel, iterum, tertio refugerit: indulſit denique precibus hoc meis; & quotidiano, quod Quintilianus ajebat, convicio ceſſit.
+CUm primùm divelli à Vobis, Adoleſcentes ornatiſſimi, eamque quam, & colitis, & ornatis inclytam Nomine, atque Ingeniis Urbem linquere, valetudinis causâ debui; eâ altè Animo meo cogitatio inhæſit, ut ſi quid uſpiam occurreret, unde extare aliqua obſequii erga Vos mei ſignificatio poſset, non arriperem modo, verum etiam & amplecterer, & exoſcularer. Quid enim jucundius mihi, aut optatius accideret, qua ſi munuſculo aliquo gratiam  Vobis inirem, quos non Hetruria ſolum elegantiarum Parens optima, ſed univerſa quodammodo colit Italia, ſuſpicitque. Hæc autem cum ego mecum agitarem, opemque ad id à Familiaribus meis, & conſilium poſcerem; oblatum mihi forte fuit hoc Drama quòd vobis nuncupo, atque è rè fore inſinuatum, ſi veſtris illud auſpiciis, meàque operà prodiret in lucem. Duo quippe erant, quæ commendare vobis donum, meumque in vos veſtraque omnia ſtudium apprime possent; alterum nimirum Dramatis argumentum : alterum Author. Nam ad primum quòd attinet, quid deniquè nobiliſſimis, pietatisque ſtudioſiſſimis Adoleſcentibus offerri opportunius poſset, quam clariſſimus quidem genere, ſed longe pietate, moribuſque clarior Adoleſcens STANISLAUS KOSTKA? in cujus nimirum ſingulari Modeſtia, generoſitate, conſtantiâ, veſtros ipſe mores, veſtras vivendi, agendique rationes dignoſcere poſsetis, tutèque diligere : Nam cum cætera, quæ in vos impenſe natura cõgesſit nominum veſtrorum decora, cum aliis etiam communia habeatis: ea tamen quæ in vos ab optimo Vitæ cultu, pietatisque ſtudio promanant, vobis profectò unis debetis; quamobrem veſtrum non eſse non poteſt quidquid illuſtre eſt, & cum pietate conjunctum. Jam verò, quod ad alterum pertinet, is Dramatis hujus eſt Author, qui cum nomine ſe ſuo tueatur ac vindicet, vobis quidem certè probabitur; quibus probari optima ſolẽt. Quis enim P. Ioannem Luccari Societatis noſtræ Virum omni bonarum artium cultu perpolitum, diùque in hoc Collegii Romani Athæneo Rethoricæ facultatis Præceptorem optimum de nomine ſaltem non noverit? Enimverò, ſi quiſquam alius, tantam ipſe eſt apud optimum quemque politioris præſertim litteraturæ famam, opinionemque aſsecutus, ut literariæ Reipublicæ intereſse plurimum ſapiens quilibet judicaverit ſi aliquid ab illo exaratum typis committeretur. At quod nunc oculis creditur, etſi leve robuſtioris ingenii rudimentum eſt (vix enim trigeſimum ætatis annum Author impleverat cum hoc Drama conſcripſit) habet tamen, quibus Atticis probetur,  placeat auribus, Veneres non exiguas. Quæ quidem omnia, cum præſertim accederet hominum eruditiſſimorum ſuffragium, permoverunt me ut ab optimo ſene quocum ego verſari ſæpe ſoleo, Drama hoc, quod vobis inſcriberem, non poſcerem modo, verùmetiam efflagitarem; & quamvis (quæ eſt ipſius modeſtia ſingularis) id ipſe, ſemel, iterum, tertio refugerit: indulſit denique precibus hoc meis; & quotidiano, quod Quintilianus ajebat, convicio ceſſit.
 
 Vos ergo lectiſſimi juvenes, excipite eà qua ſoletis benevolentia, atque humanitate obſequii erga vos mei monumentum hoc qualecumque, atque in ipſo, & Animum in vos meum, & alacre Auctoris ingenium, & pictos affabrè Stanislai mores Sanctiſſimos, &, quod caput eſt, veſtram in Stanislaum pietatem, in Authorem, opinionem, in me comitatem probate. Valete.
 
@@ -45,17 +68,18 @@ Fr. Jo: Baptiſta Carus Magiſter, & Re verendiſs. P. Paulini Bernardinii Sac. 
 
 
 * ACTORES
-IN PROLOGO
-ESAU.
+IN PROLOGO\\
+ESAU.\\
 JACOB.
-IN IPSO DRAMATI
-B. STANISLAUS KOSTKA.
-Paulus Stanislai Frater natu Major.
-Nicander Conſcientiæ Moderator.
-Phyletes Morum Magiſter.
-Gormandus Lutheri Aſſecla.
-Boemundus )
-Cratillus) Gormandi Filii.
+
+IN IPSO DRAMATI\\
+B. STANISLAUS KOSTKA.\\
+Paulus Stanislai Frater natu Major.\\
+Nicander Conſcientiæ Moderator.\\
+Phyletes Morum Magiſter.\\
+Gormandus Lutheri Aſſecla.\\
+Boemundus )\\
+Cratillus) Gormandi Filii.\\
 Pyraſtes Chacodæmon Juvenis formoſi ſpecie.
 
 
@@ -1246,7 +1270,7 @@ Frænare ratio mentis indomitæ poteſt.
 Hoſtemque rurſus, fratre depulſo, induo.
 Cedò necis inſtrumenta. Sic ſcindo meam
 A fratre mentem. Pereat hoc pœnæ genus,
-Quod ilia*!* populatur: at pœnas luat,
+Quod ilia populatur: at pœnas luat,
 Quas irrogare corpori aſſuevis flagrum.
 Caſta lacerare membra quo ſolet modo,
 Laceretur, & in fruſta diſciſſum cadat.
@@ -1659,7 +1683,7 @@ eundi.
 
 [fn:d38] (d) Fugientis affectus.
 
-[fn:a39] (a) Opem ſuga, & præſidium à Divino Verbo sibi præcatur.
+[fn:a39] (a) Opem fuga, & præſidium à Divino Verbo sibi præcatur.
 
 [fn:b39] (b) Deiparam quoque conciliare votis tuis*!* ſtudet.
 

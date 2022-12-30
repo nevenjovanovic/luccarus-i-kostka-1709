@@ -18,9 +18,12 @@ Published on Zenodo.
 2. [OCR text files](txt-ocr) (with some pages [done twice](txt-ocr-pass2)) produced by Rescribe
 3. [PDF of page images with added OCR](luccarus-i-kostka-1709.pdf) by Rescribe
 3. [Text files combined into one](text) (using `cat`) and corrected manually, by reading the digital facsimile
+4. [Org mode](org) version
+5. [Markdown file](markdown) produced from normalized org source
+5. [LaTeX file](latex) produced from org
+6. [PDF file](pdf) of the digital edition, produced from LaTeX
 5. TEI XML file with minimal structural markup
 6. TEI XML file with words tokenized, normalized, and lemmatized
-7. Markdown file produced from normalized TEI XML
 8. TEI XML file following DraCor formatting guidelines
 9. A list of names in Luccarus' drama
 8. A list of words in Luccarus' drama, by lemma, with frequency data
@@ -32,6 +35,7 @@ TBA
 # Literature
 
 + Potthoff, Wilfried. Renaissance- und Barockliteratur im jugoslavischen Raum. Sprachen und Literaturen Jugoslaviens : Beitr. vom ... dt.-jugoslav. Seminar / Bd. 1 : In Göttingen, 9. - 14. November 1981. Wiesbaden : Harrassowitz, 1985, 93–110.
++ [BibSonomy links](https://www.bibsonomy.org/user/filologanoga/ivanlukarevic) on Joannes Luccarus
 
 # License #
 
